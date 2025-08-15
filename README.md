@@ -1,6 +1,6 @@
 # 👨‍💻 Negin Shafaei - Software Engineer Portfolio
 
-Welcome to my personal portfolio repository. This project is built to showcase my engineering journey, case studies, and technical experiments.
+Welcome to my [personal portfolio](https://negin-shafaei.vercel.app/) repository. This project is built to showcase my engineering journey, case studies, and technical experiments.
 
 ## 🚀 Tech Stack
 
