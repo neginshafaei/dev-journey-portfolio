@@ -30,7 +30,7 @@ export const Hero = () => {
         </p>
 
         <div className="flex justify-center gap-6 mb-12">
-          <Link href="https://github.com/negin-shafaei" target="_blank" className="p-2 text-slate-500 hover:text-slate-900 transition-colors">
+          <Link href="https://github.com/neginshafaei" target="_blank" className="p-2 text-slate-500 hover:text-slate-900 transition-colors">
             <Github className="w-6 h-6" />
           </Link>
           <Link href="https://www.linkedin.com/in/negin-shafaei/" target="_blank" className="p-2 text-slate-500 hover:text-blue-700 transition-colors">
