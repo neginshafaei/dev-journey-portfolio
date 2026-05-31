@@ -5,6 +5,7 @@ import { Projects } from "@/components/Projects";
 import { PerformanceMetrics } from "@/components/PerformanceMetrics";
 import { SpotlightHero } from "@/components/SpotlightHero";
 import { AvailabilityWidget } from "@/components/AvailabilityWidget";
+import { PlaybookTeaser } from "@/components/PlaybookTeaser";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <About />
       <JourneyTimeline />
       <Projects />
+      <PlaybookTeaser />
       <PerformanceMetrics />
       <AvailabilityWidget />
 
