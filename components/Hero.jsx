@@ -13,7 +13,7 @@ export const Hero = () => {
         transition={{ duration: 0.5 }}
       >
         <span className="px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-sm font-semibold tracking-wide uppercase mb-4 inline-block">
-          Frontend Engineer
+          Frontend Developer
         </span>
         
         <h1 className="text-5xl leading-[93px] md:text-7xl font-extrabold text-slate-900 mb-6 tracking-tight">
@@ -26,7 +26,7 @@ export const Hero = () => {
           I specialize in building high-performance applications with 
           <span className="font-mono text-blue-600 mx-1">Next.js</span>, 
           optimizing <span className="font-mono text-blue-600 mx-1">Developer Experience (DX)</span>, 
-          and leading engineering teams.
+          and leading development efforts.
         </p>
 
         <div className="flex justify-center gap-6 mb-12">

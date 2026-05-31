@@ -19,7 +19,7 @@ export const About = () => {
               With over <span className="font-semibold text-slate-900">5 years of experience</span>, my journey has evolved from crafting pixel-perfect UIs to orchestrating complex frontend architectures.
             </p>
             <p>
-              Currently, as a <span className="font-semibold text-slate-900">Team Lead at Immigo</span>, I don't just write code; I build environments where code quality thrives. My focus has shifted towards 
+              Currently, as a <span className="font-semibold text-slate-900">Front-end Lead at Saba System Sadra</span>, I don't just write code; I build environments where code quality thrives. My focus has shifted towards 
               <span className="font-semibold text-blue-600"> Developer Experience (DX)</span>—standardizing workflows with Docker and CI/CD so my team can focus on shipping features, not fixing configs.
             </p>
           </div>

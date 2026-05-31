@@ -10,7 +10,7 @@ const experiences = [
     role: "Senior Frontend & Team Lead",
     description:
       "Leading the frontend team for a migration services platform. Successfully decoupled a monolithic Vue/Laravel app, migrated legacy code to Vue 3, and standardized the dev environment using Docker. Achieved 60% better LCP on landing pages.",
-    tech: ["Next.js", "TypeScript", "Docker", "Vue 3", "Team Leadership"],
+    tech: ["Next.js", "TypeScript", "Docker", "Vue 3", "Leadership"],
     icon: <Terminal className="w-5 h-5" />,
     color: "bg-blue-100 text-blue-600 border-blue-600",
   },
